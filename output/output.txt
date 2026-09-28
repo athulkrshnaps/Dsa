@@ -1,0 +1,8 @@
+Postfix Expression: 8 3 2 * + 6 2 / -
+
+Inorder Traversal: 8 + 3 * 2 - 6 / 2 
+Preorder Traversal: - + 8 * 3 2 / 6 2 
+Postorder Traversal: 8 3 2 * + 6 2 / - 
+
+Stack-based Postfix Evaluation: 11
+Expression Tree Evaluation: 11

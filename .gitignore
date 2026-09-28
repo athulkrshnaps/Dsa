@@ -1,0 +1,13 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.out
+*.obj
+*.pdb
+*.ilk
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
